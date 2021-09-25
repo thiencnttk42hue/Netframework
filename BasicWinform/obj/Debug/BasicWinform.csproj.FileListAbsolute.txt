@@ -8,3 +8,4 @@ D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.csproj.Gen
 D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.csproj.CoreCompileInputs.cache
 D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.exe
 D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.pdb
+D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.frmUser.resources
