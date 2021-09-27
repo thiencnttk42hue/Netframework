@@ -53,7 +53,7 @@ namespace BasicWinform.Emtities
             var ls = new List<Person>();
             ls.Add(new Person
             {
-                Id = "1",
+                Id = "sv1",
                 FirstName = "Nguyễn",
                 LastName = "Thiện",
                 DOB = new DateTime(2000, 08, 25),
@@ -62,7 +62,7 @@ namespace BasicWinform.Emtities
             });
             ls.Add(new Person
             {
-                Id = "2",
+                Id = "sv2",
                 FirstName = "Nguyễn",
                 LastName = "Thị Thảo",
                 DOB = new DateTime(2000, 5, 6),

@@ -31,7 +31,7 @@ namespace BasicWinform
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmUser));
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.picAvatar = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.txtQueQuan = new System.Windows.Forms.TextBox();
@@ -47,26 +47,29 @@ namespace BasicWinform
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.gridSinhVien = new System.Windows.Forms.DataGridView();
-            this.historySVBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.capDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.truonghocDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.diemTBDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.hanhkiemDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.historySVBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.btnDoiMau = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.picAvatar)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridSinhVien)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.historySVBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
-            // pictureBox1
+            // picAvatar
             // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 119);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.picAvatar.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.picAvatar.Image = ((System.Drawing.Image)(resources.GetObject("picAvatar.Image")));
+            this.picAvatar.Location = new System.Drawing.Point(12, 12);
+            this.picAvatar.Name = "picAvatar";
+            this.picAvatar.Size = new System.Drawing.Size(100, 119);
+            this.picAvatar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picAvatar.TabIndex = 0;
+            this.picAvatar.TabStop = false;
+            this.picAvatar.Click += new System.EventHandler(this.picAvatar_Click);
             // 
             // label1
             // 
@@ -238,10 +241,6 @@ namespace BasicWinform
             this.gridSinhVien.TabIndex = 5;
             this.gridSinhVien.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridSinhVien_CellContentClick);
             // 
-            // historySVBindingSource
-            // 
-            this.historySVBindingSource.DataSource = typeof(BasicWinform.Emtities.HistorySV);
-            // 
             // capDataGridViewTextBoxColumn
             // 
             this.capDataGridViewTextBoxColumn.DataPropertyName = "Cap";
@@ -268,21 +267,36 @@ namespace BasicWinform
             this.hanhkiemDataGridViewTextBoxColumn.HeaderText = "Hạnh kiểm";
             this.hanhkiemDataGridViewTextBoxColumn.Name = "hanhkiemDataGridViewTextBoxColumn";
             // 
+            // historySVBindingSource
+            // 
+            this.historySVBindingSource.DataSource = typeof(BasicWinform.Emtities.HistorySV);
+            // 
+            // btnDoiMau
+            // 
+            this.btnDoiMau.Location = new System.Drawing.Point(428, 124);
+            this.btnDoiMau.Name = "btnDoiMau";
+            this.btnDoiMau.Size = new System.Drawing.Size(75, 23);
+            this.btnDoiMau.TabIndex = 6;
+            this.btnDoiMau.Text = "Đổi màu";
+            this.btnDoiMau.UseVisualStyleBackColor = true;
+            this.btnDoiMau.Click += new System.EventHandler(this.btnDoiMau_Click);
+            // 
             // frmUser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(556, 663);
+            this.Controls.Add(this.btnDoiMau);
             this.Controls.Add(this.gridSinhVien);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.picAvatar);
             this.Name = "frmUser";
             this.Text = "Lý lịch cá nhân";
             this.Load += new System.EventHandler(this.frmUser_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picAvatar)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gridSinhVien)).EndInit();
@@ -294,7 +308,7 @@ namespace BasicWinform
 
         #endregion
 
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox picAvatar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.TextBox txtQueQuan;
@@ -315,5 +329,6 @@ namespace BasicWinform
         private System.Windows.Forms.DataGridViewTextBoxColumn truonghocDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn diemTBDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn hanhkiemDataGridViewTextBoxColumn;
+        private System.Windows.Forms.Button btnDoiMau;
     }
 }

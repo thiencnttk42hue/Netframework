@@ -9,3 +9,4 @@ D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.csproj.Cor
 D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.exe
 D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.pdb
 D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.frmUser.resources
+D:\Thien\Workspace\C#-NET\Mon.Net\BasicWinform\obj\Debug\BasicWinform.frmManageUser.resources
