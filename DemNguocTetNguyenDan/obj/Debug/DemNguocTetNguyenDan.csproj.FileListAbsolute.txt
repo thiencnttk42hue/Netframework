@@ -1,0 +1,13 @@
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\bin\Debug\DemNguocTetNguyenDan.exe.config
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\bin\Debug\DemNguocTetNguyenDan.exe
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\bin\Debug\DemNguocTetNguyenDan.pdb
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.csproj.SuggestedBindingRedirects.cache
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.Properties.Resources.resources
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.csproj.GenerateResource.cache
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.csproj.CoreCompileInputs.cache
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.exe
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.pdb
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.csproj.AssemblyReference.cache
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\Interop.WMPLib.dll
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.csproj.ResolveComReference.cache
+D:\Thien\Workspace\C#-NET\Mon.Net\DemNguocTetNguyenDan\obj\Debug\DemNguocTetNguyenDan.frmDemNguocTet.resources
