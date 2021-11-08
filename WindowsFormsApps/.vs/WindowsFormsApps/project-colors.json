@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "837063d5-270f-4cfc-abb0-ee2de35ffaf2": {
+      "ProjectGuid": "837063d5-270f-4cfc-abb0-ee2de35ffaf2",
+      "DisplayName": "WindowsFormsApps",
+      "ColorIndex": 0
+    },
+    "3672cfa0-ec85-4a99-831f-48308f27da59": {
+      "ProjectGuid": "3672cfa0-ec85-4a99-831f-48308f27da59",
+      "DisplayName": "DemNguocTet",
+      "ColorIndex": 1
+    },
+    "b3d5862a-740e-402c-8c88-c574c4e2f264": {
+      "ProjectGuid": "b3d5862a-740e-402c-8c88-c574c4e2f264",
+      "DisplayName": "TreeViewApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

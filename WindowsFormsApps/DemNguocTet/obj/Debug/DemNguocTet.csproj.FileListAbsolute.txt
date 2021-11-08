@@ -1,0 +1,12 @@
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\bin\Debug\DemNguocTet.exe.config
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\bin\Debug\DemNguocTet.exe
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\bin\Debug\DemNguocTet.pdb
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.csproj.SuggestedBindingRedirects.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\Interop.WMPLib.dll
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.csproj.ResolveComReference.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.frmDemNguocTet.resources
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.Properties.Resources.resources
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.csproj.GenerateResource.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.csproj.CoreCompileInputs.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.exe
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\DemNguocTet\obj\Debug\DemNguocTet.pdb

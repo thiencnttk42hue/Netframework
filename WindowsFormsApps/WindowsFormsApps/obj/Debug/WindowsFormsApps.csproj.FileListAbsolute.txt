@@ -1,0 +1,15 @@
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\bin\Debug\WindowsFormsApps.exe.config
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\bin\Debug\WindowsFormsApps.exe
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\bin\Debug\WindowsFormsApps.pdb
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.csproj.AssemblyReference.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.csproj.SuggestedBindingRedirects.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.frmPhepTinhCoBan.resources
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.Properties.Resources.resources
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.csproj.GenerateResource.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.csproj.CoreCompileInputs.cache
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.exe
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.pdb
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.frmLopHoc.resources
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.frmManageUser.resources
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.frmUser.resources
+D:\Thien\Workspace\C#-NET\NET#\WindowsFormsApps\WindowsFormsApps\obj\Debug\WindowsFormsApps.frmTimer.resources
